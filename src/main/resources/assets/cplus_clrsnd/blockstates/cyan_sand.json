@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/cyan_sand"
+      },
+      {
+        "model": "minecraft:block/cyan_sand",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/cyan_sand",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/cyan_sand",
+        "y": 270
+      }
+    ]
+  }
+}

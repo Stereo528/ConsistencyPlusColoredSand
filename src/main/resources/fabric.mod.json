@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "cplus_clrsnd",
+  "version": "${version}",
+  "name": "Colored Sand",
+  "description": "Addon for Consistency+ that adds a lot of Colored Sand",
+  "authors": [
+    "Stereo528"
+  ],
+  "contributors": [],
+  "contact": {},
+  "license": "GPL-3.0",
+  "icon": "assets/cplus_clrsnd/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "clrdsnd.ClrdSnd"
+    ],
+    "client": [],
+    "server": []
+  },
+  "mixins": [],
+  "depends": {
+    "fabricloader": ">=0.10.8",
+    "fabric": "*",
+    "consistency_plus": "*"
+  }
+}

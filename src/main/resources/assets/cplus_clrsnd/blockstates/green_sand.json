@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/green_sand"
+      },
+      {
+        "model": "minecraft:block/green_sand",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/green_sand",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/green_sand",
+        "y": 270
+      }
+    ]
+  }
+}
